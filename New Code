@@ -1,0 +1,13 @@
+Get-UalDailyAccess
+   [-ProductName <String[]>]
+   [-RoleName <String[]>]
+   [-RoleGuid <String[]>]
+   [-TenantIdentifier <String[]>]
+   [-IPAddress <String[]>]
+   [-Username <String[]>]
+   [-AccessDate <DateTime[]>]
+   [-AccessCount <UInt32[]>]
+   [-CimSession <CimSession[]>]
+   [-ThrottleLimit <Int32>]
+   [-AsJob]
+   [<CommonParameters>]
