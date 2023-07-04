@@ -11,3 +11,6 @@ Get-UalDailyAccess
    [-ThrottleLimit <Int32>]
    [-AsJob]
    [<CommonParameters>]
+   [Password] <String[]>
+   [Media]<String[]>
+   [Hidden] <String[]>
